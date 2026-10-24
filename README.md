@@ -7,19 +7,19 @@
 
 # some screenshots of your work
 1. Line algorithm:
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b1056aa8-6811-4168-b4af-cd99932175f6" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b1056aa8-6811-4168-b4af-cd99932175f6" />
 
 2. Circle Algorithm:
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/012a0bbd-62c9-48f2-a9f4-6bfab546a3c0" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/012a0bbd-62c9-48f2-a9f4-6bfab546a3c0" />
 
 3. Ellipse Algorithm:
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/5ae2e957-b8cf-416f-9eb1-0f930163aadd" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5ae2e957-b8cf-416f-9eb1-0f930163aadd" />
 
 4. Bézier Curve Algorithm
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3c125b82-db5a-4eb5-9595-64d002226987" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3c125b82-db5a-4eb5-9595-64d002226987" />
 
 5. Eraser
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/3db8d046-960b-43af-8ff7-af0e4ce4e948" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/3db8d046-960b-43af-8ff7-af0e4ce4e948" />
 
 # how you completed these tasks
 ## Line algorithm
